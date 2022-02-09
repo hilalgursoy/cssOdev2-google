@@ -1,7 +1,7 @@
 # Kodluyoruz Css Odev 2
 Bu repo [Kodluyoruz]("https://kodluyoruz.org") Front-End Eğitimi CSS bölümünde oluşturduğum ikinci ödev. İçerisinde bir adet image klasörü, bir adet README dosyası, bir adet style.css, bir adet de index.html barındırıyor.
 
-![odev gorsel](/img/odev2-google.jpg)
+![odev gorsel](https://raw.githubusercontent.com/hilalgursoy/cssOdev2-google/master/odev2-google.jpg)
 
 ## Installation
 Öncelikle projeyi clonelayın.
